@@ -3,8 +3,8 @@
 >>This is a Java program that implements a Caesar Cipher GUI (Graphical User Interface) using Swing and AWT libraries. The GUI allows the user to input a string and a shift value and then encrypts the string using the Caesar Cipher algorithm. The encrypted string is then displayed in an output text field, which is not editable.
 
 The program is implemented as a JFrame and has two buttons:
-  - "Encrypt" : The "Encrypt" button triggers the encryption process.
-  - "Clear"   : The "Clear" button clears the input and output text fields.
+  - *"Encrypt" : The "Encrypt" button triggers the encryption process.*
+  - *"Clear"   : The "Clear" button clears the input and output text fields.*
 
 # Graphical User Interface of the AllSafe:
 
