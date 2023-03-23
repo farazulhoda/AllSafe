@@ -4,7 +4,7 @@
 
 The program is implemented as a JFrame and has two buttons:
   - "Encrypt" : The "Encrypt" button triggers the encryption process.
-  - "Clear"   the "Clear" button clears the input and output text fields.
+  - "Clear"   : The "Clear" button clears the input and output text fields.
 
 # Graphical User Interface of the AllSafe:
 
