@@ -6,9 +6,9 @@ The program is implemented as a JFrame and has two buttons:
   - "Encrypt" : The "Encrypt" button triggers the encryption process.
   - "Clear"   the "Clear" button clears the input and output text fields.
 
-The GUI is designed using a GridBagLayout, and the program implements the ActionListener interface to handle button events.
-
 # Graphical User Interface of the AllSafe:
+
+The GUI is designed using a GridBagLayout, and the program implements the ActionListener interface to handle button events.
 
 <img width="495" alt="Screenshot 2023-03-23 at 04 09 25" src="https://user-images.githubusercontent.com/42433776/227156013-2afd06d3-9b37-4fa6-bff6-534596aa755c.png">
 
